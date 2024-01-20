@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mobina-developer and i'm a sinior developer
-- 👀 I’m interested in back-end.with c#. and .net
-- 🌱 I’m currently learning C#. and .netcore and asp.net
+- 👋 Hi, I’m @mobina-web3 and i'm a Security Researcher
+- 👀 I’m interested in back-end and Security.
+- 🌱 I’m currently learning Network and C#
 - 📫 How to reach me ...
 
 <!---
